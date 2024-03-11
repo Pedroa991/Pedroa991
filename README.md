@@ -1,0 +1,3 @@
+Mechanical Engineer graduated from the Veiga de Almeida University. I am looking for opportunities to develop engineering projects. Fluent in English (Cambridge International Certificate). I have knowledge in 2D and 3D CAD software: SolidWorks, AutoCad and Inventor. Python for process automation and engineering simulation calculations and data analysis.
+
+Engenheiro Mecânico formado na Universidade Veiga de Almeida. Busco oportunidades de Desenvolvimento de projetos de engenharia. Fluente em Inglês (Certificado Internacional de Cambridge). Tenho conhecimento em software de CAD 2D e 3D: SolidWorks, AutoCad e Inventor. Python para automatização de processos e cálculos de simulação de engenharia e análise de dados.
